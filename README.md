@@ -23,6 +23,19 @@ Olist wants to understand:
 
 ---
 
+## Dashboard Screenshots
+
+### 1. Executive Overview
+![Executive Overview](images/executive-overview.png)
+
+### 2. Sales & Product Analysis
+![Sales & Product Analysis](images/sales-product-analysis.png)
+
+### 3. Delivery & Customer Satisfaction
+![Delivery & Customer Satisfaction](images/delivery-satisfaction.png)
+
+---
+
 ## Key Insights
 
 ### Sales Performance
@@ -60,17 +73,9 @@ Olist wants to understand:
 
 ---
 
-## Dashboard Pages
-1. **Executive Overview** – High-level KPIs and trends
-2. **Sales & Product Analysis** – Category and payment performance
-3. **Delivery & Customer Satisfaction** – Delivery status impact on reviews
-
----
-
-## How to Use
-1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Explore the interactive dashboard
+## How to View the Dashboard
+- Download the Power BI file from [Google Drive Link: https://drive.google.com/file/d/1s9ExAT2qU6yJwMkrC87EZudhSprtPgtZ/view?usp=sharing ]
+- Open it in Power BI Desktop
 
 ---
 
